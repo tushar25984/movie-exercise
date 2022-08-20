@@ -1,0 +1,41 @@
+.card-group {
+  background: #000000;
+}
+
+.movie-card {
+  background-color: #c2c2c2;
+  border: 5px solid #ffffff;
+  border-radius: 3px;
+}
+
+.img-wrapper img {
+  display: block;
+  margin: 0 auto;
+}
+
+.content-wrapper>span {
+  display: block;
+  padding-bottom: 10px;
+}
+
+.movieName {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.movieRating {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  line-height: 12px;
+  text-align: center;
+}
+
+.movieReleaseDate {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  line-height: 12px;
+  text-align: center;
+}

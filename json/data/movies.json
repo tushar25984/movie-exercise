@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Rocketry: The Nambi Effect",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTk2MjUxMjEtZDU5OC00MzYxLTkwMWYtMGM5YWQ0MWMyN2I1XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_UY67_CR0,0,45,67_AL_.jpg",
+        "rating": "8.5",
+        "releaseDate": "1/7/2022",
+        "id": 1
+    },
+    {
+        "name": "Anbe Sivam",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjQwZWQwYjItNTIzNy00NmE5LWE1NjctZDE5MzgyMzY5YjljXkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+        "rating": "8.4",
+        "releaseDate": "14/1/2003",
+        "id": 2
+    },
+    {
+        "name": "Hanky Panky",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjA4OTczODgxNF5BMl5BanBnXkFtZTgwMDAzMTU2NDE@._V1_UY67_CR2,0,45,67_AL_.jpg",
+        "rating": "8.4",
+        "releaseDate": "4/1/1979",
+        "id": 3
+    },
+    {
+        "name": "Nayakan",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZmFiYjJkNTEtZDdlMi00YTA5LTk1YTYtMDgxM2M2MTRmNGFhXkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+        "rating": "8.4",
+        "releaseDate": "3/1/1987",
+        "id": 4
+    },
+    {
+        "name": "Jai Bhim",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTM0NWFjNGYtNjExMS00ZTZlLWFiYmMtZmU4ZjZkMmMxZTNjXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_UY67_CR4,0,45,67_AL_.jpg",
+        "rating": "8.4",
+        "releaseDate": "8/5/2021",
+        "id": 5
+    },
+    {
+        "name": "Pariyerum Perumal",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMGYyOTdhMWEtMjdkNi00ZWJhLTkwYTUtODI0M2E4NjIzMTkyXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_UY67_CR1,0,45,67_AL_.jpg",
+        "rating": "8.4",
+        "releaseDate": "26/1/2018",
+        "id": 6
+    },
+    {
+        "name": "3 Idiots",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+        "rating": "8.4",
+        "releaseDate": "26/1/2009",
+        "id": 7
+    },
+    {
+        "name": "The World of Apu",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BN2ZhM2NkZDUtMTI3OC00NWE5LWEwYzMtZTlhMjhkZGFlMjQyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/1959",
+        "id": 8
+    },
+    {
+        "name": "Drishyam 2",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BM2RiZDVjYWEtZGNhYy00ZGU0LTgwZjMtZTJmNmMyNGQ5NGYyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/1993",
+        "id": 9
+    },
+    {
+        "name": "Kumbalangi Nights",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjYyZTNkZGYtZGJjZC00NmM2LThjNjMtMjYxYTI0NTg1NzViXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2019",
+        "id": 10
+    },
+    {
+        "name": "Black Friday",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BYWRjMDlmNGYtOGFhYy00ZWU4LTk3MzEtOTI4ZTgxN2Y5NGNkXkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2004",
+        "id": 11
+    },
+    {
+        "name": "C/o Kancharapalem",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjg2YWM0YzUtODViNS00OWRkLWI0YmItNDdhODUwMjVhYjQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2018",
+        "id": 12
+    },
+    {
+        "name": "Like Stars on Earth",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2007",
+        "id": 13
+    },
+    {
+        "name": "Soorarai Pottru",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BOGVjYmM0ZWEtNTFjNi00MWZjLTk3OTItMmFjMDAzZWU1ZDVjXkEyXkFqcGdeQXVyMTI2Mzk1ODg0._V1_UX45_CR0,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2020",
+        "id": 14
+    },
+    {
+        "name": "#Home",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWU1ZmNlYTctYmY1My00ZDlmLTk3M2EtZDcxY2E1ZGU0N2YzXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_UY67_CR4,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2021",
+        "id": 15
+    },
+    {
+        "name": "777 Charlie",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDhhMjBlMWYtMDVlMy00ZjM3LTg3MTUtZDg0NjA0YzcxOGY4XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_UY67_CR0,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2022",
+        "id": 16
+    },
+    {
+        "name": "Kireedam",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BY2U2YmVjMmUtZjFhNS00YTBhLWFmOGYtYWRiYjBmZDkwMTU1XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_UX45_CR0,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/1989",
+        "id": 17
+    },
+    {
+        "name": "Dangal",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2016",
+        "id": 18
+    },
+    {
+        "name": "Kaithi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BOWVlNjg3ODAtMmJkZC00YWQwLThlMWQtODEyMTY1NTM3NmVkXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_UX45_CR0,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2019",
+        "id": 19
+    },
+    {
+        "name": "Jersey",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BYzBhZWQxOGUtZWVmMi00ZmZhLWJjZDYtMGUxY2I4ZDdlOGEyXkEyXkFqcGdeQXVyODMyODMxNDY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+        "rating": "8.3",
+        "releaseDate": "26/1/2019",
+        "id": 20
+    }
+]
